@@ -1,0 +1,29 @@
+table{
+	margin: 20px 0 40px;
+
+}
+thead{
+	background: #00A8D5;
+	color: white;
+	font-weight: bold;
+
+}
+td, tr{
+	border: 1px solid #000000;
+	padding: 8px 15px;
+}
+td{
+	font-family: sans-serif;
+}
+h1{
+	font-family: georgia;
+	 font-size:36px;
+  -webkit-background-clip: text;
+  color: white;
+  -webkit-text-fill-color: transparent;
+  background-color:#FFF;
+  background-image: -webkit-gradient(linear,left top,right top,from(#ea8711), to(#d96363));
+  background-image: -webkit-linear-gradient(left,#2BA600,#2BA600,#2560FF,#2BA600,#2BA600);
+  
+
+}
