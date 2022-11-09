@@ -1,0 +1,27 @@
+p{
+	font-size: 20px;
+}
+#Cabecalho{
+	height: 150px;
+	background: orange;
+}
+#Menu{
+	height: 500px;
+	width: 300px;
+	background: green;
+}
+#Pagina{
+	height: 500px;
+	width: 700px;
+	background: rgb(175, 0, 0);
+	
+}
+#Lado{
+	height: 500px;
+	width: 300px;
+	background: #FF0059;
+}
+#Rodape{
+	height: 150px;
+	background: rgb(31, 102, 255);
+}

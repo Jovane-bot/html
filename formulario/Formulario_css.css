@@ -1,0 +1,53 @@
+main {
+    width: 640px;
+    margin: 0 auto;
+    border: 2px solid #000000;
+    border-radius: 30px; /*/ ARREDENDAR A BORDA */
+    border-style: bold;
+    background-color: #E1E1E1;
+    box-shadow: 10px 5px 20px black;
+
+}
+
+form {
+    margin: 10px 20px;
+    font-size: 20px;
+    font-family: monospace;
+}
+form label{
+    display: block;
+}
+form input{
+    display: block;
+    height: 30px;
+
+}
+button {
+    width: 70px;
+    height: 30px;
+    border-radius: 10px;
+}
+h1{
+    text-align:  center;
+    font-family: monospace;
+    font-size: 30px;
+
+}
+body{
+    background-image: url("fundo.png");
+     }
+
+
+textarea{
+    height: 100px;
+}
+select{
+    height: 25px;
+    width: 160px;
+}
+img{
+    
+
+}
+
+
