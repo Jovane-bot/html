@@ -1,0 +1,88 @@
+*{
+	margin:0;
+	padding: 0;
+}
+p{
+	font-size: 20px;
+}
+#Cabecalho{
+	height: 150px;
+	background: #DF7401;
+	width: 97%;
+	margin: 0 auto;
+
+	border: 2px solid #000000;
+}
+#Menu{
+	height: 500px;
+	width: 450px;
+	background: #088A4B;
+	float: left;
+	margin-left: 20px;
+	margin-top: 10px;
+
+	border: 2px solid #000000;
+}
+#Pagina{
+	height: 500px;
+	width: 586px; 
+	background: #04B4AE;
+	float: left;
+	margin-left: 20px;
+	margin-top: 10px;
+
+	border: 2px solid #000000;
+}
+#Lado{
+	height: 500px;
+	width: 450px;
+	background: #8A0868;
+	float: left;
+	margin-left: 20px;
+	margin-top: 10px;
+
+
+	border: 2px solid #000000;
+}
+#Rodape{
+	height: 150px;
+	background: #084B8A;
+	clear: both;
+	margin: 0 auto;
+	margin-top: 320px;
+	width: 97%;
+
+	border: 2px solid #000000;
+}
+
+#banner{
+	width: 30%;
+
+}
+label{
+	font-size: 25px;
+	font-weight: bold;
+	font-family: sans-serif;
+}
+
+
+table{
+	margin: 5px 0 5px;
+	font-size: 18px;
+}
+thead{
+	background: #00A8D5;
+	color: white;
+	font-weight: bold;
+
+}
+td, tr{
+	border: 1px solid #000000;
+	padding: 8px 10px;
+}
+td{
+	background: #DF7401;
+	color: black;
+	font-weight: bold;
+	font-family: sans-serif;
+}
